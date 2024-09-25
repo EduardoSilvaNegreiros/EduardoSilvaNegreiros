@@ -34,7 +34,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EduardoSilvaNegreiros/EduardoSilvaNegreiros/output/snake.svg" alt="Snake animation" />
+## 🗓️ Contribuições Recentes:
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduardoSilvaNegreiros&theme=vue)](https://github.com/EduardoSilvaNegreiros)
 
 ###
 
