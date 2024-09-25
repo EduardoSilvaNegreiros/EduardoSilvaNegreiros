@@ -1,27 +1,43 @@
-### Olá! Eu sou o Eduardo Negreiros 👋
+<h2 align="left">Olá! Eu sou o Eduardo Negreiros 👋</h2>
 
+###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardonegreiross/)
-[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoSilvaNegreiros)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-![Eduardo Negreiros GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSilvaNegreiros&show_icons=true&theme=dracula)
+###
 
-### Tecnologias que eu uso no meu dia:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaNegreiros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaNegreiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=EduardoSilvaNegreiros&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<div style='display: inline_block'><br/><hr>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img aling="center" alt="Html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div><br/>
+###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYxNTBncnFxeHA4MGY3Z3E0ZXlpZTM0aDRyNWN5ZTB5a3Y4YXM1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-# Sobre Mim
+###
 
-Comecei minha carreira recentemente na programação, mas desde antes de me dedicar algumas horas por dia ao estudo, sabia que essa era a área que eu iria escolher. Amo resolver problemas utilizando a programação, principalmente no front-end. 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
 
-Desejo me tornar um desenvolvedor full-stack um dia e espero que meu sonho se realize, sei que é uma área difícil onde precisamos ter bastante dedicação e empenho e evitar ao máximo a "Síndrome do impostor" onde o pensamento de desistir é constante, mas para quem tem fé tem tudo então me agarrarei a ela para conseguir ser um ótimo profissional.
+###
 
-Mesmo sendo iniciante tem uma garra para me tornar um excelente dev um dia, ira tudo dar certo!!!
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EduardoSilvaNegreiros/EduardoSilvaNegreiros/output/snake.svg" alt="Snake animation" />
+
+###
