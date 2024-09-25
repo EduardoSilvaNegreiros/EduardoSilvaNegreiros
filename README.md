@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Eduardo Negreiros</h1>
 
-<div align="center">
-  <img src="https://github.com/your-image-url" alt="Banner" width="100%" />
-</div>
-
 ### 🌟 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando aprender e compartilhar conhecimento. Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, TypeScript, React e outras tecnologias web.
 
@@ -38,11 +34,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
 
 ---
 
-### 🗓️ Contribuições Recentes
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduardoSilvaNegreiros&theme=vue)](https://github.com/EduardoSilvaNegreiros)
-
----
-
 ### 📬 Como Entrar em Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardonegreiross" target="_blank">
@@ -55,11 +46,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp logo" />
   </a>
 </div>
-
----
-
-### 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/EduardoSilvaNegreiros/EduardoSilvaNegreiros/output/snake.svg)
 
 ---
 
