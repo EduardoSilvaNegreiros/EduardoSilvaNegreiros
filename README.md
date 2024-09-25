@@ -1,7 +1,10 @@
 <h1 align="center">👋 Olá! Eu sou o Eduardo Negreiros</h1>
 
 ### 🌟 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando aprender e compartilhar conhecimento. Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, TypeScript, React e outras tecnologias web.
+Bom, a programação entrou na minha vida há alguns meses atras pois sempre senti que queria ser da área de tecnologia. Então comecei a investir em estudos e equipamentos que eu consigo me tornar um bom desenvolvedor. Onde decidi começar pelo front-end para um dia ser um desenvolvedor full-stack e irei me dedicar ao máximo para isto
+
+Atualmente, estudo de 3h/4h diárias e colocando meus conhecimentos em praticas com miniprojetos. Estou estudando HTML, CSS, JavaScript, React, TypeScript e Node. Também estou aprendendo sobre banco de dados como MongoDB, MySQL.
+
 
 ---
 
@@ -42,7 +45,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Sempre buscando apr
   <a href="mailto:edunegreiross@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/seunumero" target="_blank">
+  <a href="https://wa.me/5511992252201" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp logo" />
   </a>
 </div>
