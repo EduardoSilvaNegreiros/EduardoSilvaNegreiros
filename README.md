@@ -34,12 +34,6 @@
 
 ###
 
-## 🗓️ Contribuições Recentes:
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EduardoSilvaNegreiros&theme=vue)](https://github.com/EduardoSilvaNegreiros)
-
-###
-
 <h1 align="left">📬 Como entrar em contato:</h1>
 
 ###
