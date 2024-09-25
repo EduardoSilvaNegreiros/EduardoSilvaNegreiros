@@ -1,41 +1,52 @@
-# **Olá! Eu sou o Eduardo Negreiros 👋**
+<h1 align="left">Olá! Eu sou o Eduardo Negreiros 👋</h1>
 
----
+###
 
-## ⚡ **Tecnologias que utilizo:**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaNegreiros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaNegreiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=EduardoSilvaNegreiros&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+###
 
----
+<h1 align="center">⚡ Tecnologias que utilizo:</h1>
 
-## 📊 **GitHub Stats:**
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoSilvaNegreiros&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=EduardoSilvaNegreiros&layout=compact&theme=dracula&hide_border=false)
+###
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSilvaNegreiros&theme=dracula&hide_border=false&border_radius=5)
+<img src="https://raw.githubusercontent.com/EduardoSilvaNegreiros/EduardoSilvaNegreiros/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYxNTBncnFxeHA4MGY3Z3E0ZXlpZTM0aDRyNWN5ZTB5a3Y4YXM1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" />
+<h1 align="left">📬 Como entrar em contato:</h1>
 
----
+###
 
-## 📬 **Como entrar em contato:**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edunegreiross@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardonegreiross/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumero)
-
----
-
-## 🐍 **Snake Animation:**
-
-![Snake animation](https://raw.githubusercontent.com/EduardoSilvaNegreiros/EduardoSilvaNegreiros/output/snake.svg)
-
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardonegreiross" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:edunegreiross@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
