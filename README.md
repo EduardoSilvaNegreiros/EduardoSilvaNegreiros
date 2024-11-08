@@ -1,10 +1,9 @@
 <h1 align="center">👋 Olá! Eu sou o Eduardo Negreiros</h1>
 
 ### 🌟 Sobre Mim
-Bom, a programação entrou na minha vida há alguns meses atras pois sempre senti que queria ser da área de tecnologia. Então comecei a investir em estudos e equipamentos que eu consigo me tornar um bom desenvolvedor. Onde decidi começar pelo front-end para um dia ser um desenvolvedor full-stack e irei me dedicar ao máximo para isto
+Bom, a programação entrou na minha vida há alguns meses atrás pois sempre senti que queria ser da área de tecnologia. Então comecei a investir em estudos e equipamentos para me tornar um bom desenvolvedor. Onde decidi começar pelo front-end para um dia ser um desenvolvedor full-stack e irei me dedicar ao máximo para isso.
 
-Atualmente, estudo de 3h/4h diárias e colocando meus conhecimentos em praticas com miniprojetos. Estou estudando HTML, CSS, JavaScript, React, TypeScript e Node. Também estou aprendendo sobre banco de dados como MongoDB, MySQL.
-
+Atualmente, estudo de 3h/4h diárias e colocando meus conhecimentos em prática com miniprojetos. Estou estudando HTML, CSS, JavaScript, React, TypeScript e Node. Também estou aprendendo sobre banco de dados como MongoDB, MySQL e agora começando a explorar C#.
 
 ---
 
@@ -25,6 +24,8 @@ Atualmente, estudo de 3h/4h diárias e colocando meus conhecimentos em praticas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
 </div>
 
 ---
