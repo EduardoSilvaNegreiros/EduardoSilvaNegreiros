@@ -1,9 +1,13 @@
 <h1 align="center">👋 Olá! Eu sou o Eduardo Negreiros</h1>
 
 ### 🌟 Sobre Mim
-Bom, a programação entrou na minha vida há alguns meses atrás pois sempre senti que queria ser da área de tecnologia. Então comecei a investir em estudos e equipamentos para me tornar um bom desenvolvedor. Onde decidi começar pelo front-end para um dia ser um desenvolvedor full-stack e irei me dedicar ao máximo para isso.
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender novas ferramentas e técnicas. Estudo e trabalho com HTML, CSS, JavaScript, React, TypeScript, Node.js, além de estar aprofundando meus conhecimentos em C# e PHP. Com uma sólida compreensão de bancos de dados como MongoDB, MySQL e MariaDB, busco criar soluções robustas tanto no front-end quanto no back-end.
 
-Atualmente, estudo de 3h/4h diárias e colocando meus conhecimentos em prática com miniprojetos. Estou estudando HTML, CSS, JavaScript, React, TypeScript e Node. Também estou aprendendo sobre banco de dados como MongoDB, MySQL e agora começando a explorar C#.
+Tenho experiência prática na construção de APIs REST, utilizando tecnologias como Node.js, Express, Sequelize e MongoDB. Também sou entusiasta de frameworks como Laravel e NestJS, e trabalho com PostgreSQL para desenvolver sistemas escaláveis e eficientes.
+
+Além disso, me aprofundei em princípios de programação orientada a objetos, SOLID, Clean Code e testes automatizados com Jest, visando sempre garantir a qualidade e escalabilidade dos projetos. Tenho interesse em Desenvolvimento Ágil, Docker, DevOps e segurança de servidores, e busco constantemente melhorar minhas habilidades para me tornar um profissional completo.
+
+Sempre dedicado ao aprendizado contínuo, estou pronto para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras e de alto desempenho.
 
 ---
 
