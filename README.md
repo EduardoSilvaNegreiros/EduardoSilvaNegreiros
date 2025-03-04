@@ -3,7 +3,7 @@
 ### 🌟 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender novas ferramentas e técnicas. Estudo e trabalho com HTML, CSS, JavaScript, React, TypeScript, Node.js, além de estar aprofundando meus conhecimentos em C# e PHP. Com uma sólida compreensão de bancos de dados como MongoDB, MySQL e MariaDB, busco criar soluções robustas tanto no front-end quanto no back-end.
 
-Tenho experiência prática na construção de APIs REST, utilizando tecnologias como Node.js, Express, Sequelize e MongoDB. Também sou entusiasta de frameworks como Laravel e NestJS, e trabalho com PostgreSQL para desenvolver sistemas escaláveis e eficientes.
+Tenho experiência prática na construção de APIs REST, utilizando tecnologias como Node.js, Express, Sequelize e MongoDB. Também sou entusiasta de frameworks como Laravel ![Laravel logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg) e NestJS, e trabalho com PostgreSQL para desenvolver sistemas escaláveis e eficientes.
 
 Além disso, me aprofundei em princípios de programação orientada a objetos, SOLID, Clean Code e testes automatizados com Jest, visando sempre garantir a qualidade e escalabilidade dos projetos. Tenho interesse em Desenvolvimento Ágil, Docker, DevOps e segurança de servidores, e busco constantemente melhorar minhas habilidades para me tornar um profissional completo.
 
