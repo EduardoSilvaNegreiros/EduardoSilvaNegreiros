@@ -1,50 +1,62 @@
-<h1 align="center">👋 Olá! Eu sou o Eduardo Negreiros</h1>
+<h1 align="center">👋 Olá! Eu sou o Eduardo Silva de Negreiros</h1>
 
 ## 🌟 Sobre Mim
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Desde o início da minha carreira, busco sempre aprender novas ferramentas, técnicas e melhores práticas para criar soluções tecnológicas que impactem positivamente o mundo ao meu redor. Estou sempre em busca de desafios que me permitam crescer tanto no **front-end** quanto no **back-end**.
+Sou **Eduardo Silva de Negreiros**, tenho **18 anos** e sou um desenvolvedor **full-stack** apaixonado por tecnologia e inovação. Busco constantemente aprender novas ferramentas e aprimorar minhas habilidades para criar soluções tecnológicas impactantes.
 
-Atualmente, trabalho com tecnologias como **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **PHP** e **C#**. Tenho uma sólida compreensão de bancos de dados, incluindo **MongoDB**, **MySQL** e **MariaDB**, e sou capaz de desenvolver soluções robustas e eficientes que atendem às necessidades de sistemas modernos.
+Atualmente, trabalho com tecnologias como **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **PHP** e **C#**. Também possuo conhecimento sólido em bancos de dados como **MongoDB**, **MySQL** e **MariaDB**.
 
-### 💻 Experiência e Conhecimentos
+---
 
-Tenho experiência prática na construção de **APIs REST** utilizando **Node.js**, **Express**, **Sequelize** e **MongoDB**, além de trabalhar com **PostgreSQL** para garantir a escalabilidade e eficiência dos sistemas. Também sou entusiasta de frameworks como **Laravel** e **NestJS**, que utilizo para desenvolver aplicações web dinâmicas e de alto desempenho.
+## 💻 Experiência e Conhecimentos
 
-Minhas habilidades em **JavaScript** e **TypeScript** me permitem desenvolver aplicações rápidas e interativas. No **React**, sou fluente no uso de **React Hooks** e **Redux** para gerenciar o estado das aplicações de forma eficiente. Além disso, sou proficiente no desenvolvimento de interfaces de usuário elegantes e funcionais, buscando sempre melhorar a experiência do usuário.
+🔹 Desenvolvimento de **APIs REST** utilizando **Node.js**, **Express**, **Sequelize** e **MongoDB**.
 
-Me aprofundei também em **programação orientada a objetos**, **SOLID**, **Clean Code** e **testes automatizados com Jest**, que são fundamentais para garantir a qualidade, manutenibilidade e escalabilidade dos projetos. Sempre que possível, aplico essas práticas para melhorar a legibilidade do código e facilitar a colaboração em equipe.
+🔹 Experiência com **PostgreSQL** para escalabilidade e eficiência.
 
-Tenho também forte interesse em **Desenvolvimento Ágil**, onde uso ferramentas como **Jira** e **Trello** para gerenciar tarefas e sprints de maneira eficiente, garantindo entregas rápidas e dentro do prazo. No âmbito de DevOps, possuo experiência com **Docker** para criação de containers e **CI/CD** para automação de deploy, além de realizar a configuração e monitoramento de servidores com foco em **segurança** e performance.
+🔹 Familiaridade com frameworks como **Laravel** e **NestJS** para desenvolvimento de aplicações web dinâmicas.
 
-### 🛠️ Tecnologias e Ferramentas
+🔹 Especialista em **JavaScript** e **TypeScript**, utilizando **React Hooks** e **Redux** para gerenciamento de estado.
 
-- **Front-End**: 
-  - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, **React Hooks**, **Redux**, **Next.js**
-  
-- **Back-End**:
-  - **Node.js**, **Express**, **NestJS**, **PHP**, **C#**, **Laravel**
-  
-- **Bancos de Dados**:
-  - **MongoDB**, **MySQL**, **MariaDB**, **PostgreSQL**
+🔹 Aplicação de **SOLID**, **Clean Code** e **testes automatizados com Jest** para garantir qualidade e escalabilidade dos projetos.
 
-- **Ferramentas e Práticas**:
-  - **Git**, **GitHub**, **Docker**, **CI/CD**, **Jira**, **Trello**
-  - **SOLID**, **Clean Code**, **Testes Automatizados com Jest**, **Desenvolvimento Ágil**
-  - **RESTful APIs**, **GraphQL**, **WebSockets**
-  
-- **Infraestrutura e DevOps**:
-  - **Nginx**, **Apache**, **Linux**, **Docker**
-  - **Monitoramento de Performance e Segurança de Servidores**
+🔹 Práticas de **Desenvolvimento Ágil**, utilizando **Jira** e **Trello** para gerenciamento de tarefas.
 
-### 🌱 Sempre Aprendendo
+🔹 Experiência com **Docker** e **CI/CD** para automação de deploy e infraestrutura.
 
-O aprendizado contínuo é um dos pilares do meu trabalho. Estou sempre em busca de novos cursos, certificações e práticas para me manter atualizado com as últimas tendências e avanços tecnológicos. Recentemente, finalizei cursos sobre **Docker**, **DevOps**, **Testes Automatizados** e **Design Patterns**, e continuo aprofundando meus conhecimentos sobre arquitetura de software e práticas de segurança.
+---
 
-### 🚀 Objetivos e Desafios
+## 🛠️ Tecnologias e Ferramentas
 
-Meu objetivo como desenvolvedor é criar soluções inovadoras e de alto desempenho que resolvam problemas reais. Busco sempre aplicar as melhores práticas de desenvolvimento para garantir que os sistemas sejam escaláveis, seguros e de fácil manutenção. Estou pronto para enfrentar desafios mais complexos, trabalhar com novas tecnologias e colaborar com equipes de alto desempenho.
+### **Front-End**
+- HTML5, CSS3, JavaScript, TypeScript, React, Redux, Next.js
 
-Sempre busco aprender com a experiência e compartilhar meu conhecimento com outros desenvolvedores, promovendo um ambiente colaborativo e de crescimento contínuo.
+### **Back-End**
+- Node.js, Express, NestJS, PHP, C#, Laravel
+
+### **Bancos de Dados**
+- MongoDB, MySQL, MariaDB, PostgreSQL
+
+### **Ferramentas e Práticas**
+- Git, GitHub, Docker, CI/CD, Jira, Trello
+- SOLID, Clean Code, Testes Automatizados com Jest, Desenvolvimento Ágil
+- RESTful APIs, GraphQL, WebSockets
+
+### **Infraestrutura e DevOps**
+- Nginx, Apache, Linux, Docker
+- Monitoramento de Performance e Segurança de Servidores
+
+---
+
+## 🌱 Sempre Aprendendo
+
+Estou constantemente me atualizando com cursos e certificações sobre **Docker, DevOps, Testes Automatizados e Design Patterns**. Meu foco é aprofundar conhecimentos em **arquitetura de software e segurança**.
+
+---
+
+## 🚀 Objetivos e Desafios
+
+Meu objetivo é criar **soluções inovadoras e de alto desempenho** que resolvam problemas reais. Sempre aplico as melhores práticas para garantir que os sistemas sejam **escaláveis, seguros e de fácil manutenção**. Busco desafios que me permitam crescer profissionalmente e colaborar com equipes de alto desempenho.
 
 ---
 
@@ -89,10 +101,10 @@ Sempre busco aprender com a experiência e compartilhar meu conhecimento com out
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardonegreiross" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="mailto:edunegreiross@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
   <a href="https://wa.me/5511992252201" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp logo" />
