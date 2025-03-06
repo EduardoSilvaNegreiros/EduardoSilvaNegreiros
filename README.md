@@ -2,13 +2,49 @@
 
 ## 🌟 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em aprender novas ferramentas e técnicas. Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, além de estar aprofundando meus conhecimentos em **C#** e **PHP**. Tenho também um bom domínio de bancos de dados como **MongoDB**, **MySQL** e **MariaDB**, criando soluções robustas tanto no **front-end** quanto no **back-end**.
+Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Desde o início da minha carreira, busco sempre aprender novas ferramentas, técnicas e melhores práticas para criar soluções tecnológicas que impactem positivamente o mundo ao meu redor. Estou sempre em busca de desafios que me permitam crescer tanto no **front-end** quanto no **back-end**.
 
-Tenho experiência prática no desenvolvimento de **APIs REST** com **Node.js**, **Express**, **Sequelize** e **MongoDB**, e também sou entusiasta de frameworks como **Laravel** e **NestJS**. Além disso, trabalho com **PostgreSQL** para desenvolver sistemas escaláveis e eficientes.
+Atualmente, trabalho com tecnologias como **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **PHP** e **C#**. Tenho uma sólida compreensão de bancos de dados, incluindo **MongoDB**, **MySQL** e **MariaDB**, e sou capaz de desenvolver soluções robustas e eficientes que atendem às necessidades de sistemas modernos.
 
-Me aprofundei em **programação orientada a objetos**, **SOLID**, **Clean Code** e **testes automatizados com Jest**, sempre buscando garantir a qualidade e escalabilidade dos projetos. Tenho interesse em **Desenvolvimento Ágil**, **Docker**, **DevOps** e **segurança de servidores**, com foco em evolução contínua como profissional.
+### 💻 Experiência e Conhecimentos
 
-Estou pronto para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras e de alto desempenho.
+Tenho experiência prática na construção de **APIs REST** utilizando **Node.js**, **Express**, **Sequelize** e **MongoDB**, além de trabalhar com **PostgreSQL** para garantir a escalabilidade e eficiência dos sistemas. Também sou entusiasta de frameworks como **Laravel** e **NestJS**, que utilizo para desenvolver aplicações web dinâmicas e de alto desempenho.
+
+Minhas habilidades em **JavaScript** e **TypeScript** me permitem desenvolver aplicações rápidas e interativas. No **React**, sou fluente no uso de **React Hooks** e **Redux** para gerenciar o estado das aplicações de forma eficiente. Além disso, sou proficiente no desenvolvimento de interfaces de usuário elegantes e funcionais, buscando sempre melhorar a experiência do usuário.
+
+Me aprofundei também em **programação orientada a objetos**, **SOLID**, **Clean Code** e **testes automatizados com Jest**, que são fundamentais para garantir a qualidade, manutenibilidade e escalabilidade dos projetos. Sempre que possível, aplico essas práticas para melhorar a legibilidade do código e facilitar a colaboração em equipe.
+
+Tenho também forte interesse em **Desenvolvimento Ágil**, onde uso ferramentas como **Jira** e **Trello** para gerenciar tarefas e sprints de maneira eficiente, garantindo entregas rápidas e dentro do prazo. No âmbito de DevOps, possuo experiência com **Docker** para criação de containers e **CI/CD** para automação de deploy, além de realizar a configuração e monitoramento de servidores com foco em **segurança** e performance.
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Front-End**: 
+  - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, **React Hooks**, **Redux**, **Next.js**
+  
+- **Back-End**:
+  - **Node.js**, **Express**, **NestJS**, **PHP**, **C#**, **Laravel**
+  
+- **Bancos de Dados**:
+  - **MongoDB**, **MySQL**, **MariaDB**, **PostgreSQL**
+
+- **Ferramentas e Práticas**:
+  - **Git**, **GitHub**, **Docker**, **CI/CD**, **Jira**, **Trello**
+  - **SOLID**, **Clean Code**, **Testes Automatizados com Jest**, **Desenvolvimento Ágil**
+  - **RESTful APIs**, **GraphQL**, **WebSockets**
+  
+- **Infraestrutura e DevOps**:
+  - **Nginx**, **Apache**, **Linux**, **Docker**
+  - **Monitoramento de Performance e Segurança de Servidores**
+
+### 🌱 Sempre Aprendendo
+
+O aprendizado contínuo é um dos pilares do meu trabalho. Estou sempre em busca de novos cursos, certificações e práticas para me manter atualizado com as últimas tendências e avanços tecnológicos. Recentemente, finalizei cursos sobre **Docker**, **DevOps**, **Testes Automatizados** e **Design Patterns**, e continuo aprofundando meus conhecimentos sobre arquitetura de software e práticas de segurança.
+
+### 🚀 Objetivos e Desafios
+
+Meu objetivo como desenvolvedor é criar soluções inovadoras e de alto desempenho que resolvam problemas reais. Busco sempre aplicar as melhores práticas de desenvolvimento para garantir que os sistemas sejam escaláveis, seguros e de fácil manutenção. Estou pronto para enfrentar desafios mais complexos, trabalhar com novas tecnologias e colaborar com equipes de alto desempenho.
+
+Sempre busco aprender com a experiência e compartilhar meu conhecimento com outros desenvolvedores, promovendo um ambiente colaborativo e de crescimento contínuo.
 
 ---
 
