@@ -6,7 +6,7 @@ Sou **Eduardo Silva de Negreiros**, tenho **18 anos** e sou um desenvolvedor **f
 
 Atualmente, trabalho com tecnologias como **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript**, **Node.js**, **PHP** e **C#**. Também possuo conhecimento sólido em bancos de dados como **MongoDB**, **MySQL** e **MariaDB**.
 
---
+---
 
 ## 💻 Experiência e Conhecimentos
 
