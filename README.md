@@ -2,9 +2,15 @@
 
 ## 🌟 Sobre Mim
 
-Sou um **desenvolvedor Full Stack** apaixonado por tecnologia e sempre em busca de evolução. Meu foco é desenvolver **soluções escaláveis, performáticas e seguras**, utilizando as melhores práticas do mercado.
+Sou um **desenvolvedor Full Stack** de **19 anos**, apaixonado por tecnologia e sempre em busca de evolução. Meu foco é desenvolver **soluções escaláveis, performáticas e seguras**, utilizando as melhores práticas do mercado.
 
 Atualmente, trabalho com **JavaScript**, **TypeScript**, **React**, **Node.js**, **PHP** e **C#**, além de bancos de dados como **MongoDB**, **MySQL** e **PostgreSQL**.
+
+---
+
+## 🚀 Objetivo
+
+Meu objetivo é me tornar um **desenvolvedor Full Stack de alto nível**, criando soluções **performáticas, escaláveis e seguras**. Busco desafios que me façam evoluir constantemente, aprimorando minha expertise em **arquitetura de software e boas práticas**. Quero contribuir para projetos inovadores e impactar positivamente o mundo da tecnologia.
 
 ---
 
@@ -19,7 +25,7 @@ Atualmente, trabalho com **JavaScript**, **TypeScript**, **React**, **Node.js**,
 ### **Banco de Dados**
 - MongoDB, MySQL, PostgreSQL, MariaDB
 
-### **Infraestrutura & DevOps**
+### **Infraestrutura**
 - Docker, CI/CD, Nginx, Linux, Apache
 
 ### **Boas Práticas**
@@ -30,12 +36,6 @@ Atualmente, trabalho com **JavaScript**, **TypeScript**, **React**, **Node.js**,
 
 ### **Metodologias**
 - Agile, Scrum, Kanban (Jira, Trello)
-
----
-
-## 🚀 Objetivo
-
-Meu objetivo é me tornar um **desenvolvedor de alto nível**, criando **soluções eficientes, robustas e bem arquitetadas**. Busco desafios que me façam evoluir constantemente.
 
 ---
 
